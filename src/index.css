@@ -53,3 +53,17 @@ iframe {
     top: 0;
     right: 0;
 }
+
+.go-back-btn {
+    border: none;
+    background: none;
+    background-image: url('./assets/left-btn.png');
+    position: fixed;
+    left: 20px;
+    top: 50%;
+    width: 60px;
+    height: 60px;
+    opacity: 0.4;
+    cursor: pointer;
+    z-index: 3;
+}

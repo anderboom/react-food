@@ -68,9 +68,7 @@ function Recipe() {
           ) : null}
         </div>
       )}
-      <button className='btn' onClick={goBack}>
-        Go Back
-      </button>
+      <button className='go-back-btn' onClick={goBack}></button>
     </>
   );
 }

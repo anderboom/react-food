@@ -9,10 +9,13 @@ function Header() {
         </Link>
         <ul id='nav-mobile' className='right hide-on-med-and-down'>
           <li>
-            <Link to='/about'>About</Link>
-          </li>
-          <li>
-            <Link to='/contacts'>Contacts</Link>
+            <a
+              href='https://github.com/anderboom/react-food'
+              target='_blank'
+              rel='noreferrer'
+            >
+              Repozitory
+            </a>
           </li>
         </ul>
       </div>
