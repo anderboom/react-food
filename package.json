@@ -1,5 +1,6 @@
 {
     "name": "react-food",
+    "homepage": "https://anderboom.github.io/react-food",
     "version": "0.1.0",
     "private": true,
     "dependencies": {

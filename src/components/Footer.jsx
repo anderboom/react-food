@@ -10,7 +10,7 @@ function Footer() {
             target='_blank'
             rel='noreferrer'
           >
-            Repozitory
+            Repository
           </a>
         </div>
       </div>

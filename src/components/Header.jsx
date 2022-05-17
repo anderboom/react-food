@@ -14,7 +14,7 @@ function Header() {
               target='_blank'
               rel='noreferrer'
             >
-              Repozitory
+              Repository
             </a>
           </li>
         </ul>
