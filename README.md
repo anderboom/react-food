@@ -1,6 +1,6 @@
 # React recipes App
 
- [DEMO](https://anderboom.github.io/react-food/).
+ [DEMO](https://anderboom.github.io/react-food/)
 
 ## Available Scripts
 
